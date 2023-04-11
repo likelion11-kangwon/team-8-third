@@ -19,7 +19,7 @@ $ python3 crypto/generate_password.py
 ### 파일 암호화
 
 ```sh
-$ python3 crypto/encrypt.py 파일
+$ py -3 crypto/encrypt.py 3D병아리.png
 
 # 예) python3 crypto/encrypt.py 곰두리.png
 ```
